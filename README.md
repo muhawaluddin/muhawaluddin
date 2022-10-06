@@ -1,1 +1,1 @@
-### Hi there 👋 I'm AWAL
+### Hi there 👋 I'm Awal
