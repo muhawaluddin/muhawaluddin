@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Awal
+# Hi there 👋 I'm Awal
 
 
 # 💻 Tech Stack:
