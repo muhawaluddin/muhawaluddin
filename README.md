@@ -15,7 +15,7 @@
 
 - 💼 Seorang profesional di bidang **produk digital**, **manajemen proyek**, dan **pengembangan tim agile**.
 - 🎯 Fokus pada **pengembangan aplikasi pendidikan**, transformasi digital, dan sistem berbasis data.
-- 📚 Suka menulis, belajar hal baru, dan membagikannya lewat [YouTube Waldlev](https://youtube.com/@muhawaluddin).
+- 📚 Suka menulis, belajar hal baru, dan membagikannya lewat [YouTube Walldev](https://youtube.com/@muhawaluddin).
 - 🔍 Saat ini tertarik dengan: `AI Agent`, `Productivity Tools`, dan `Digital Monetization`.
 
 ---
@@ -39,7 +39,7 @@
 
 > 📫 **Email:** walldev07@gmail.com  
 > 🌐 **Website:** [muhawaluddin.com](https://muhawaluddin.com)  
-> 📹 **YouTube:** [youtube.com/@walldev](https://youtube.com/@muhawaluddin)
+> 📹 **YouTube:** [youtube.com/@muhawaluddin](https://youtube.com/@muhawaluddin)
 
 ---
 
