@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Awal
+
 
 <h1 align="center">Hi there 👋, I'm Wall</h1>
 <h3 align="center">🚀 Product Manager | Project Manager | Scrum Master | Tech Enthusiast</h3>
