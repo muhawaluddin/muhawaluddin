@@ -15,7 +15,7 @@
 
 - 💼 Seorang profesional di bidang **produk digital**, **manajemen proyek**, dan **pengembangan tim agile**.
 - 🎯 Fokus pada **pengembangan aplikasi pendidikan**, transformasi digital, dan sistem berbasis data.
-- 📚 Suka menulis, belajar hal baru, dan membagikannya lewat [YouTube Walldev](https://youtube.com/@muhawaluddin).
+- 📚 Suka menulis, belajar hal baru, dan membagikannya lewat [YouTube Waldlev](https://youtube.com/@muhawaluddin).
 - 🔍 Saat ini tertarik dengan: `AI Agent`, `Productivity Tools`, dan `Digital Monetization`.
 
 ---
@@ -44,6 +44,6 @@
 ---
 
 <p align="center">
-  <em>“Learning never exhausts the mind.” – Leonardo da Vinci</em>
+  <em>"Menyia-nyiakan waktu lebih berbahaya daripada kematian. Karena kematian memisahkan antara kamu dan dunia, sedangkan menyia-nyiakan waktu memisahkan kamu dari Allah dan akhirat." — Ibn Qayyim al-Jauziyyah, dalam kitab al-Fawaa’id</em>
 </p>
 
